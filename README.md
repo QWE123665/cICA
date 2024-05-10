@@ -10,4 +10,4 @@ The code for pre-processing the monkey-human dataset provided by the paper 'Comp
 
 Data avaliability:
 We upload the mouse protein data from the paper 'Self-organizing feature maps identify proteins critical to learning in a mouse model of down syndrome'.
-For other datasets, due to the large size, we provide links to download them.
+For other datasets, due to the large size, we provide links to download them and we upload the processed foreground and background datasets.
