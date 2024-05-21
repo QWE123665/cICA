@@ -1,7 +1,7 @@
 # cICA
 This repo contains code for contrastive ICA algorithms and code for comparing cICA algorithms to other algorithms in various datasets.
 
-SPM.py, helper_functions.py are code from the paper 'Subspace power method for symmetric tensor decomposition and generalized PCA' by Joe Kileel and João M. Pereira.
+SPM.py, helper_functions.py, compiler_options.py are code from the paper 'Subspace power method for symmetric tensor decomposition and generalized PCA' by Joe Kileel and João M. Pereira.
 cICA_functions is code from the paper 'Identifiability of overcomplete ICA' by Kexin Wang and Anna Seigal.
 
 The code for cICA algorithms is in the file cICA_functions.py.
