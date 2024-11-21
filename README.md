@@ -5,7 +5,7 @@ SPM.py, helper_functions.py, compiler_options.py are code from the paper 'Subspa
 cICA_functions is code from the paper 'Identifiability of overcomplete ICA' by Kexin Wang and Anna Seigal.
 
 The code for cICA algorithms is in the file cICA_functions.py.
-The code for comparing cICA algorithms to other algorithms in various datasets is in the file real_world_data.ipynb.
+The code for comparing cICA algorithms to other algorithms in various datasets is in the file numerical_experiments.ipynb.
 The code for pre-processing the monkey-human dataset provided by the paper 'Comparative single-cell transcriptomic analysis of primate brains highlights human-specific regulatory evolution' is in monkey_human.r and the code for applying cICA to the processed data is in monkey_human.ipynb.
 
 Data availability:
